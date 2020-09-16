@@ -1,4 +1,4 @@
-# Maze Find_path Project
+# Maze Solver Project
 def Display(visited):
     print('Solved maze path:')
     for i in visited:
